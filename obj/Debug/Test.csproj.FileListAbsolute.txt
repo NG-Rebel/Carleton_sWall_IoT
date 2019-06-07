@@ -37,3 +37,15 @@ C:\Users\rodri\source\repos\Test\obj\Debug\Quad.g.cs
 C:\Users\rodri\source\repos\Test\obj\Debug\Library.baml
 C:\Users\rodri\source\repos\Test\obj\Debug\Azrieli.baml
 C:\Users\rodri\source\repos\Test\obj\Debug\Quad.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.exe.config
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\IotLab.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Library.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Azrieli.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Quad.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test_MarkupCompile.cache
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test_MarkupCompile.lref
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.exe
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.pdb
