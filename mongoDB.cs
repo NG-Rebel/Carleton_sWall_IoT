@@ -19,8 +19,12 @@ namespace Test
 
             var db = client.GetDatabase("SensorData");
             var collection = db.GetCollection<BsonDocument>(node);
+            
+            var filter = Builders<BsonDocument>.Filter.Eq("Sensor", sensor);
+            var projection = Builders<BsonDocument>.Projection.Exclude("Time");
+            var sort = Builders<BsonDocument>.Sort.Descending("_id");
 
-            var temps = collection.Find(new BsonDocument("Sensor", sensor)).Sort(Builders<BsonDocument>.Sort.Descending("_id")).Limit(8640).ToList();
+            var documents = collection.Find(filter).Project(projection).Sort(sort).Limit(8640).ToList();
 
             int count = 0;
 
@@ -28,12 +32,12 @@ namespace Test
             {
                 if (i == 0)
                 {
-                    data24[count] = System.Convert.ToInt32(temps[i].GetElement("Value").Value);
+                    data24[count] = System.Convert.ToInt32(documents[i].GetElement("Value").Value);
                     count += 1;
                 }
                 else if (i % 360 == 0)
                 {
-                    data24[count] = System.Convert.ToInt32(temps[i].GetElement("Value").Value);
+                    data24[count] = System.Convert.ToInt32(documents[i].GetElement("Value").Value);
                     count += 1;
                 }
             }
