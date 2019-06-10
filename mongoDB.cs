@@ -14,7 +14,7 @@ namespace Test
     {
 
         static int dataPoints_Day = 1440;
-        static int graphDataPoints = 25;
+        static int graphDataPoints = 24;
 
         public static List<BsonDocument> getDailyData(String sensor, String node)
         {
