@@ -53,7 +53,11 @@
                 <StackPanel Background="#FFA90000">
                     <Grid Height="100" RenderTransformOrigin="0.5,0.5" Margin="5" >
                         <Grid.Background>
+<<<<<<< HEAD
                             <ImageBrush ImageSource="C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\images\Logo.png" Stretch="Uniform"/>
+=======
+                            <ImageBrush ImageSource="images/Logo.PNG" Stretch="Uniform" />
+>>>>>>> ce07a25ba74916d17160334fe2dcdf69e929d5ed
                         </Grid.Background>
                         <Grid.RenderTransform>
                             <TransformGroup>
