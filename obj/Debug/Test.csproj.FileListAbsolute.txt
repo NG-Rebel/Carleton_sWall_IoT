@@ -115,3 +115,42 @@ C:\Users\rodri\Desktop\Github\Carleton_sWall_Iot\obj\Debug\Test.csproj.CoreCompi
 C:\Users\rodri\Desktop\Github\Carleton_sWall_Iot\obj\Debug\Test.csproj.CopyComplete
 C:\Users\rodri\Desktop\Github\Carleton_sWall_Iot\obj\Debug\Test.exe
 C:\Users\rodri\Desktop\Github\Carleton_sWall_Iot\obj\Debug\Test.pdb
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\IotLab.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Library.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Azrieli.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Quad.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test_MarkupCompile.cache
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test_MarkupCompile.lref
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.exe
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.pdb
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\Test.exe.config
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\Test.exe
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\Test.pdb
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\DnsClient.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MongoDB.Bson.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MongoDB.Driver.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\DnsClient.xml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MongoDB.Bson.xml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MongoDB.Driver.xml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\App.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\IotLab.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Library.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Azrieli.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Quad.baml
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.g.resources
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.Properties.Resources.resources
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csproj.CopyComplete
