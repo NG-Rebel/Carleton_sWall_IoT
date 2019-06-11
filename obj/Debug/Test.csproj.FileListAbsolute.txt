@@ -154,3 +154,5 @@ C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.Properties
 C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csproj.GenerateResource.cache
 C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\Test.csproj.CopyComplete
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\M2Mqtt.Net.dll
+C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\bin\Debug\M2Mqtt.Net.pdb

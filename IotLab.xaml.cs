@@ -37,6 +37,9 @@ namespace Test
             var Data = DatabaseAnalysis.getDailyData("Temperature", "Node2");
             var arr = DatabaseAnalysis.getGraphData(Data);
 
+            var myClient = MQTT.CreateConnection();
+            MQTT.subscribeToSensors(myClient, "N2");
+
             for (int i = 0; i < 24; i+= 1)
             {
                 /*

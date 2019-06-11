@@ -4,28 +4,16 @@
 exe
 C#
 .cs
-<<<<<<< HEAD
 C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\obj\Debug\
-=======
-D:\Github\Carleton_sWall_IoT\obj\Debug\
->>>>>>> ce07a25ba74916d17160334fe2dcdf69e929d5ed
 Test
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
 C:\Users\PC\Desktop\Github Projects\Carleton_sWall_IoT\App.xaml
 5599506185
 
-12131894453
-22166546658
-=======
-D:\Github\Carleton_sWall_IoT\App.xaml
-5599506185
-
-12131894453
-22102408541
->>>>>>> ce07a25ba74916d17160334fe2dcdf69e929d5ed
+131033263269
+23-323287709
 MainWindow.xaml;IotLab.xaml;Library.xaml;Azrieli.xaml;Quad.xaml;
 
 False
